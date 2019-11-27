@@ -1,0 +1,88 @@
+
+.shadow {
+    box-shadow:10px 10px 5px grey;
+}
+.navbar-brand {
+    font-family: 'Slabo 27px', serif;
+    font-size: 19px;
+}
+.nav {
+    font-family: 'Abel', sans-serif;
+    font-size: 15px;
+}
+.txt-center {
+    font-family: 'Slabo 27px', serif;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 40px;
+    text-shadow: 2px 2px #99c2ff;
+}
+.intro {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 19px;
+}
+.quote {
+    font-family: 'Courgette', cursive;
+}
+.title {
+    font-family: 'Slabo 27px', serif;
+    background-color: #ccfff5;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.heading {
+    font-family: 'Slabo 27px', serif;
+    background-color: #ccfff5;
+    margin-left: 480px;
+    margin-right: 480px;
+}
+.ligertitle {
+    font-family: 'Slabo 27px', serif;
+    background-color: #ccfff5;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.txt {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 17px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 21px;
+}
+.column {
+    flex: 33%;
+    max-width: 33%;
+    padding: 0 21px;
+}
+.column img {
+    margin-top: 21px;
+    vertical-align: middle;
+    width: 100%;
+    box-shadow: 10px 10px 5px grey
+}
+.quotetxt {
+    text-align: center;
+    padding: 21px;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 2px 2px #99c2ff;
+}
+.line {
+    text-shadow: 2px 2px #99c2ff;
+}
+.travelpic {
+    background-color: #66a3ff;
+    box-shadow: 10px 10px 5px grey;
+}
+.traveltitle {
+    font-family: 'Alata', sans-serif;
+    text-shadow: 2px 2px #c2c2d6;
+}
+.informationtxt {
+    font-family: 'Lato', sans-serif;
+}
+.contactimg {
+    margin-left: 22px;
+}
+
